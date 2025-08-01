@@ -1,2 +1,6 @@
 this is try
+<<<<<<< HEAD
 This is try
+=======
+this is the update
+>>>>>>> aiml
